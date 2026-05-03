@@ -4619,10 +4619,3 @@ var pokemons = [
 	]
 }
 ];
-
-const mapped = pokemons.map((el) => {
-
-
-})
-
-
